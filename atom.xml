@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ExTra</title>
+  
+  <subtitle>ExTra Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://extra-h.github.io/"/>
+  <updated>2018-10-22T06:03:15.102Z</updated>
+  <id>http://extra-h.github.io/</id>
+  
+  <author>
+    <name>ExTra</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>今日新闻</title>
+    <link href="http://extra-h.github.io/2018/10/22/%E4%BB%8A%E6%97%A5%E6%96%B0%E9%97%BB/"/>
+    <id>http://extra-h.github.io/2018/10/22/今日新闻/</id>
+    <published>2018-10-22T03:28:25.000Z</published>
+    <updated>2018-10-22T06:03:15.102Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是今日新闻</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是今日新闻&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="新闻" scheme="http://extra-h.github.io/categories/%E6%96%B0%E9%97%BB/"/>
+    
+    
+      <category term="新闻" scheme="http://extra-h.github.io/tags/%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>text3</title>
+    <link href="http://extra-h.github.io/2018/10/17/text3/"/>
+    <id>http://extra-h.github.io/2018/10/17/text3/</id>
+    <published>2018-10-17T09:15:29.000Z</published>
+    <updated>2018-10-22T06:02:07.121Z</updated>
+    
+    <content type="html"><![CDATA[<p>窗前<br>预习<br>六年<br>奇痒<br>亏东方<br>看到了发<br>上扣扣发</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;窗前&lt;br&gt;预习&lt;br&gt;六年&lt;br&gt;奇痒&lt;br&gt;亏东方&lt;br&gt;看到了发&lt;br&gt;上扣扣发&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="一类" scheme="http://extra-h.github.io/categories/%E4%B8%80%E7%B1%BB/"/>
+    
+    
+      <category term="标签1" scheme="http://extra-h.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="http://extra-h.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>白手起建博客笔记</title>
+    <link href="http://extra-h.github.io/2018/10/17/%E7%99%BD%E6%89%8B%E8%B5%B7%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%AC%94%E8%AE%B0/"/>
+    <id>http://extra-h.github.io/2018/10/17/白手起建博客笔记/</id>
+    <published>2018-10-17T07:59:26.000Z</published>
+    <updated>2018-10-23T09:22:48.175Z</updated>
+    
+    <content type="html"><![CDATA[<p>好像每个使用hexo搭建博客的人都会写这么一篇教程</p><p>无非就是分享成功自建博客的喜悦以及差点从入门到放弃所踩过的坑与走过的弯路</p><p>我就不说什么教程了，毕竟详细的教程已经很多了。我就做笔记，大家互相学习，互相进阶，hhh</p><p>要搭建hexo博客网站，先简单了解几个相关知识</p><p><a href="http://www.runoob.com/git/git-tutorial.html" target="_blank" rel="noopener">git</a>（可上传拉取网站资源）<br><a href="https://www.runoob.com/nodejs/nodejs-tutorial.html" target="_blank" rel="noopener">node.js</a>（创建博客运行环境）<br><a href="https://www.runoob.com/w3cnote/git-guide.html" target="_blank" rel="noopener">github</a>（面向<a href="https://baike.baidu.com/item/%E5%BC%80%E6%BA%90/20720669" target="_blank" rel="noopener">开源</a>及私有<a href="https://baike.baidu.com/item/%E8%BD%AF%E4%BB%B6/12053" target="_blank" rel="noopener">软件</a>项目的托管平台，用来放的项目<br>）<br><a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a>（一个快速、简洁且高效的博客框架。快速生成静态网站）<br><a href="https://baike.baidu.com/item/markdown/3245829?fr=aladdin" target="_blank" rel="noopener">markdown</a>（一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。）</p><p>next, let we use these tool to build our website<br>接下来让我们利用这几个半生不熟的工具开始搭建自己的网站</p><p>好吧，我懒得写了，推荐一篇通熟易懂的吧，效果是一样的（<a href="https://www.cnblogs.com/visugar/p/6821777.html）" target="_blank" rel="noopener">https://www.cnblogs.com/visugar/p/6821777.html）</a></p><p>相信一样聪明的我们已经搭建成功了吧，当然者至少初步的，还要进阶呢<br>  <br><br> <br></p><hr><p> <br><br> <br></p><h3 id="回顾笔记-熟悉命令"><a href="#回顾笔记-熟悉命令" class="headerlink" title="回顾笔记/熟悉命令"></a>回顾笔记/熟悉命令</h3><pre><code>拉取项目到本地文件夹blog： hexo init启动本地项目：npm install生成页面：hexo g 启动服务：hexo s清除缓存：hexo clean    </code></pre><p>所有指令都可用cmd或git bash here进行（不同的是cmd需要进入站点文件夹操作）<br><em>/cmd应该熟悉吧？window 命令窗口/</em><br><img src="http://upload-images.jianshu.io/upload_images/14418034-6bcc54a7ee9b2529?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="cmd的方式进入myblog"></p><p><img src="http://upload-images.jianshu.io/upload_images/14418034-36d47039dbe66488?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="hexo init"></p><p><img src="http://upload-images.jianshu.io/upload_images/14418034-d65b550557644225?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="你配吗 install"></p><p><img src="http://upload-images.jianshu.io/upload_images/14418034-fd0e5b7f82c6d00a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="hexo server"></p><p>Git的用法，在站点文件夹（myblog）鼠标右键git bash here</p><p><img src="http://upload-images.jianshu.io/upload_images/14418034-b7a391648ee6c601?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>其他指令都一样用</p><p>  <br><br> <br></p><hr><p> <br><br> <br></p><h3 id="关于替换主题："><a href="#关于替换主题：" class="headerlink" title="关于替换主题："></a>关于替换主题：</h3><p>git clone <a href="https://github.com/iissnan/hexo-theme-next" target="_blank" rel="noopener">https://github.com/iissnan/hexo-theme-next</a><br><strong>themes next</strong>（主题地址可以网站下载）</p><p> 完成后，打开 站点配置文件， 找到 theme 字段，并将其值更改为 next</p><p><img src="http://upload-images.jianshu.io/upload_images/14418034-968076dbd8ddfaa3?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="theme主题配置"></p><pre><code>hexo clean //清除缓存hexo g //重新生成代码hexo s //部署到本地</code></pre><p>然后打开浏览器访问 localhost:4000 查看效果</p><p><strong>NexT 三类主题样式</strong></p><p><strong>Muse</strong> - 默认 Scheme，这是 NexT 最初的版本，黑白主调，大量留白</p><p><strong>Mist</strong> - Muse 的紧凑版本，整洁有序的单栏外观</p><p><strong>Pisces</strong> - 双栏 Scheme，小家碧玉似的清新</p><p><img src="http://upload-images.jianshu.io/upload_images/14418034-fe49c598e40aa972?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>在 站点根目录/themes/next/_congig.yml 文件中修改</p><p>然后又是一套预览    hexo clean     hexo g    hexo s    访问 localhost:4000 查看效果</p><p><strong>预览</strong>   如果你开起了localhost:4000服务本地预览，那么可以Ctrl+c关掉服务。就可以进行其他命令操作</p><p><img src="http://upload-images.jianshu.io/upload_images/14418034-00cb98894c0f25bd?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>  <br><br> <br></p><hr><p> <br><br> <br></p><h3 id="上传项目至github会遇到的问题"><a href="#上传项目至github会遇到的问题" class="headerlink" title="上传项目至github会遇到的问题"></a>上传项目至github会遇到的问题</h3><p><strong>部署地址有两种上传方式http和ssh</strong><img src="https://upload-images.jianshu.io/upload_images/14418034-ec0f2e202275de8b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p><img src="http://upload-images.jianshu.io/upload_images/14418034-8107353e64410431?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>hexo d // 发布到github（插件前面已经装过了）<br>部署地址一定要填对<img src="https://upload-images.jianshu.io/upload_images/14418034-82973bb721cf3f99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="成功部署"></p><h3 id="重点"><a href="#重点" class="headerlink" title="重点"></a>重点</h3><p><strong>永远记住github个人主页默认域为：你github账户名.github.io</strong><br>其他库的域都是在默认域之下，例如再搭一个库名second，你访问的地址变成：github账户名.github.io/second/</p><p>  <br><br> <br></p><hr><p> <br><br> <br></p><h3 id="如果你GitHub的项目没有样式–如下"><a href="#如果你GitHub的项目没有样式–如下" class="headerlink" title="如果你GitHub的项目没有样式–如下"></a>如果你GitHub的项目没有样式–如下</h3><p><img src="http://upload-images.jianshu.io/upload_images/14418034-ac0189bc42b86af7?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><p>那么你要在本地_congig.yml中 url的地方是否是你对应的库的地址<img src="https://upload-images.jianshu.io/upload_images/14418034-e095dd1f235042e7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="extra-h.github.io"><br>这样你在github的样式就不会找错路劲了</p><p>或者你有第二项目库，例如我的第二个库名second（第二个项目的域是基于默认域之下）<br>所以需要在 root：/    后写下第二个库的名称。如下<img src="https://upload-images.jianshu.io/upload_images/14418034-99a46da30e94d4dd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p><pre><code>发布  hexo d预览  https://extra-h.github.io第二个项目  https://extra-h.github.io/second/</code></pre><p><strong>当看不到样式或者图片</strong><br>（此种情况多出现在子项目，或者不同的库，解析的css/js路径不正确所致）</p><p><br></p><p>博客搭建差不多了吧？<br>显然这样是源源不够的。让我们一起进阶吧<br>当然啦，我们最好把各自的网站分享一下。成果才是奋斗的动力<br>一起学起来吧NAN程序员<br>我的网站是（http://弄好再说.com）</p><p><br></p><hr><p><br></p><p>#end</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;好像每个使用hexo搭建博客的人都会写这么一篇教程&lt;/p&gt;
+&lt;p&gt;无非就是分享成功自建博客的喜悦以及差点从入门到放弃所踩过的坑与走过的弯路&lt;/p&gt;
+&lt;p&gt;我就不说什么教程了，毕竟详细的教程已经很多了。我就做笔记，大家互相学习，互相进阶，hhh&lt;/p&gt;
+&lt;p&gt;要搭建hexo博
+      
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://extra-h.github.io/categories/hexo/"/>
+    
+    
+      <category term="github" scheme="http://extra-h.github.io/tags/github/"/>
+    
+      <category term="hexo" scheme="http://extra-h.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://extra-h.github.io/2017/06/18/hello-world/"/>
+    <id>http://extra-h.github.io/2017/06/18/hello-world/</id>
+    <published>2017-06-17T16:00:00.000Z</published>
+    <updated>2018-10-19T10:03:34.202Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="一类" scheme="http://extra-h.github.io/categories/%E4%B8%80%E7%B1%BB/"/>
+    
+    
+      <category term="First" scheme="http://extra-h.github.io/tags/First/"/>
+    
+      <category term="Second" scheme="http://extra-h.github.io/tags/Second/"/>
+    
+  </entry>
+  
+</feed>
